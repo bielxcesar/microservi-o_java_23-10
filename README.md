@@ -16,3 +16,6 @@ Envie as informações do chamado para o endereço `http://localhost:8080/api/ch
   "usuario": "usr_gabriel",
   "tipo": "Hardware"
 }
+```
+O sistema devolverá a confirmação da criação, incluindo o ID único gerado para este chamado e a data de abertura automática.
+
